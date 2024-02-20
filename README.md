@@ -1,4 +1,4 @@
-# Covid-19-Impacts-Analysis-on-the-Global-Economy
+# Covid-19 Impacts Analysis on the Global Economy
 Amidst the COVID-19 pandemic, reliable and accessible information is essential for
 guiding public health efforts and individual decision-making. This project report presents an
 initiative aimed at addressing this need by providing a robust visualization of COVID-19 data.
